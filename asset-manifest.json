@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tasty-bilder/gitCovid-test.git/static/css/main.26266492.chunk.css",
+    "main.js": "/tasty-bilder/gitCovid-test.git/static/js/main.a6b2b8ad.chunk.js",
+    "main.js.map": "/tasty-bilder/gitCovid-test.git/static/js/main.a6b2b8ad.chunk.js.map",
+    "runtime-main.js": "/tasty-bilder/gitCovid-test.git/static/js/runtime-main.c92aee5a.js",
+    "runtime-main.js.map": "/tasty-bilder/gitCovid-test.git/static/js/runtime-main.c92aee5a.js.map",
+    "static/js/2.9e5c110b.chunk.js": "/tasty-bilder/gitCovid-test.git/static/js/2.9e5c110b.chunk.js",
+    "static/js/2.9e5c110b.chunk.js.map": "/tasty-bilder/gitCovid-test.git/static/js/2.9e5c110b.chunk.js.map",
+    "static/js/3.dd8f9b09.chunk.js": "/tasty-bilder/gitCovid-test.git/static/js/3.dd8f9b09.chunk.js",
+    "static/js/3.dd8f9b09.chunk.js.map": "/tasty-bilder/gitCovid-test.git/static/js/3.dd8f9b09.chunk.js.map",
+    "index.html": "/tasty-bilder/gitCovid-test.git/index.html",
+    "static/css/main.26266492.chunk.css.map": "/tasty-bilder/gitCovid-test.git/static/css/main.26266492.chunk.css.map",
+    "static/js/2.9e5c110b.chunk.js.LICENSE.txt": "/tasty-bilder/gitCovid-test.git/static/js/2.9e5c110b.chunk.js.LICENSE.txt",
+    "static/media/face.51aa110a.png": "/tasty-bilder/gitCovid-test.git/static/media/face.51aa110a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c92aee5a.js",
+    "static/js/2.9e5c110b.chunk.js",
+    "static/css/main.26266492.chunk.css",
+    "static/js/main.a6b2b8ad.chunk.js"
+  ]
+}
